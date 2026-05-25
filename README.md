@@ -1,8 +1,8 @@
-# Quiz Game Application 🎮
+# Modern Calculator Web Application 🌊
 
-A responsive and interactive Quiz Game Application built using HTML, CSS, and JavaScript.
+A responsive and interactive calculator web application built using HTML, CSS, and JavaScript.
 
-This project dynamically displays quiz questions, tracks user progress, saves quiz state using localStorage, and provides a final score screen with a modern glassmorphism UI.
+This project features a modern ocean-blue aesthetic UI with glassmorphism effects, responsive design, keyboard support, and smooth hover animations.
 
 ---
 
@@ -14,17 +14,16 @@ This project dynamically displays quiz questions, tracks user progress, saves qu
 
 ## ✨ Features
 
-- Dynamic Quiz Questions
-- Multiple Choice Options
-- Score Tracking
-- Progress Indicator
-- Correct/Wrong Answer Highlighting
-- Restart Quiz Functionality
-- localStorage Progress Saving
-- Responsive Design
-- Glassmorphism UI
-- Smooth Hover Animations
+- Responsive Calculator UI
+- Ocean Blue Aesthetic Theme
+- Glassmorphism Design
+- Basic Arithmetic Operations
+- Keyboard Support
+- Error Handling
+- Clear & Delete Buttons
+- Hover Animations
 - Modern Interactive Interface
+- Mobile Responsive Layout
 
 ---
 
@@ -49,42 +48,37 @@ SCT_WD_2/
 
 ---
 
-## 🧠 JavaScript Concepts Used
+## ⌨️ Keyboard Shortcuts
 
-- Arrays & Objects
-- DOM Manipulation
-- Event Listeners
-- Conditional Logic
-- Dynamic Rendering
-- State Management
-- localStorage
+| Key | Action |
+|---|---|
+| 0-9 | Number Input |
+| + - * / | Operators |
+| Enter | Calculate |
+| Backspace | Delete Last Character |
+| Escape | Clear Display |
 
 ---
 
 ## 📸 Project Highlights
 
-- Interactive quiz gameplay
-- Responsive layout for all devices
-- Dynamic question rendering
-- Persistent quiz progress after refresh
-- User-friendly modern UI
+- Beautiful Ocean Blue UI
+- Glassmorphism Design
+- Smooth Hover Effects
+- Responsive Across Devices
+- Interactive User Experience
+- Functional Arithmetic Operations
 
 ---
 
-## 💾 Progress Saving Feature
+## 🧠 JavaScript Concepts Used
 
-This application uses:
-
-```javascript
-localStorage
-```
-
-to save:
-- Current Question
-- User Score
-- Quiz Progress
-
-This allows users to continue the quiz even after refreshing the page.
+- DOM Manipulation
+- Event Listeners
+- Functions
+- Conditional Logic
+- Keyboard Events
+- Error Handling
 
 ---
 
@@ -102,13 +96,11 @@ https://github.com/Vienna3007
 
 ## ⭐ Future Improvements
 
-- Quiz Timer
-- Difficulty Levels
-- Randomized Questions
-- Leaderboard
+- Scientific Calculator
+- Theme Switcher
+- Calculation History
 - Sound Effects
-- Dark/Light Mode
-- Firebase Database Integration
+- Advanced Animations
 
 ---
 
